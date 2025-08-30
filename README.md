@@ -1,11 +1,13 @@
 # Cohort Analysis
 
 This project analyses **customer retention in e-commerce** using **Cohort Analysis** and **RFM Segmentation**. The goal is to uncover retention trends, segment customers into meaningful groups and generate **actionable insights** to improve customer loyalty and reduce churn
+
 **Dataset**
-**Raw dataset**: Dataset_ecommerce.csv
-**Cleaned dataset**: Dataset_ecommerce_cleaned.csv
-**With Cohort Index**: Dataset_ecommerce_with_cohort_index.csv
-**Retention Matrix**: Cohort_Retention_Matrix.csv
+
+1. **Raw dataset**: Dataset_ecommerce.csv,
+2. **Cleaned dataset**: Dataset_ecommerce_cleaned.csv,
+3. **With Cohort Index**: Dataset_ecommerce_with_cohort_index.csv,
+4. **Retention Matrix**: Cohort_Retention_Matrix.csv
 
 Key fields include: InvoiceNo, InvoiceDate, CustomerID, Quantity, UnitPrice, Country.
 
